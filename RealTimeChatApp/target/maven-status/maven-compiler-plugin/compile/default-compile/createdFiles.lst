@@ -1,0 +1,5 @@
+gui\ChatGUI.class
+gui\ChatGUI$1.class
+server\ChatServer$ClientHandler.class
+server\ChatServer.class
+networking\Client.class
